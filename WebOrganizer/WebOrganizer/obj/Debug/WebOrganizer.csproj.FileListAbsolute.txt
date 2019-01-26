@@ -1,0 +1,148 @@
+C:\Projects\WebOrganizer\WebOrganizer\bin\WebOrganizer.dll.config
+C:\Projects\WebOrganizer\WebOrganizer\bin\WebOrganizer.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\WebOrganizer.pdb
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\csc.exe
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\csc.exe.config
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\csc.rsp
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\csi.exe
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\csi.exe.config
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\csi.rsp
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.AppContext.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.Console.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.Diagnostics.Process.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.IO.Compression.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.IO.Pipes.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.Security.AccessControl.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.Security.Claims.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.Threading.Thread.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.ValueTuple.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.Xml.XPath.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\vbc.exe
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\vbc.exe.config
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\vbc.rsp
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\VBCSCompiler.exe
+C:\Projects\WebOrganizer\WebOrganizer\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\WebOrganizer\WebOrganizer\bin\EntityFramework.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\EntityFramework.SqlServer.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\System.Web.Helpers.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\System.Web.Mvc.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\System.Web.Razor.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\System.Web.Webpages.Deployment.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\System.Web.Webpages.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\System.Web.Webpages.Razor.dll
+C:\Projects\WebOrganizer\WebOrganizer\bin\EntityFramework.xml
+C:\Projects\WebOrganizer\WebOrganizer\bin\EntityFramework.SqlServer.xml
+C:\Projects\WebOrganizer\WebOrganizer\bin\System.Web.Razor.xml
+C:\Projects\WebOrganizer\WebOrganizer\bin\System.Web.Webpages.xml
+C:\Projects\WebOrganizer\WebOrganizer\bin\System.Web.Webpages.Deployment.xml
+C:\Projects\WebOrganizer\WebOrganizer\bin\System.Web.Webpages.Razor.xml
+C:\Projects\WebOrganizer\WebOrganizer\bin\System.Web.Helpers.xml
+C:\Projects\WebOrganizer\WebOrganizer\bin\System.Web.Mvc.xml
+C:\Projects\WebOrganizer\WebOrganizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\WebOrganizer\WebOrganizer\obj\Debug\WebOrganizer.csprojAssemblyReference.cache
+C:\Projects\WebOrganizer\WebOrganizer\obj\Debug\WebOrganizer.csproj.CoreCompileInputs.cache
+C:\Projects\WebOrganizer\WebOrganizer\obj\Debug\WebOrganizer.csproj.CopyComplete
+C:\Projects\WebOrganizer\WebOrganizer\obj\Debug\WebOrganizer.dll
+C:\Projects\WebOrganizer\WebOrganizer\obj\Debug\WebOrganizer.pdb
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\WebOrganizer.dll.config
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\WebOrganizer.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\WebOrganizer.pdb
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\csc.exe
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\csc.exe.config
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\csc.rsp
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\csi.exe
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\csi.exe.config
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\csi.rsp
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.AppContext.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.Collections.Immutable.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.Console.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.Diagnostics.Process.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.IO.Compression.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.IO.FileSystem.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.IO.Pipes.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.Reflection.Metadata.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.Security.AccessControl.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.Security.Claims.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.Security.Principal.Windows.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.Threading.Thread.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.ValueTuple.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.Xml.XmlDocument.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.Xml.XPath.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\vbc.exe
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\vbc.exe.config
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\vbc.rsp
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\VBCSCompiler.exe
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\roslyn\VBCSCompiler.exe.config
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\EntityFramework.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\EntityFramework.SqlServer.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\Microsoft.Web.Infrastructure.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\System.Web.Helpers.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\System.Web.Mvc.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\System.Web.Razor.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\System.Web.Webpages.Deployment.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\System.Web.Webpages.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\System.Web.Webpages.Razor.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\EntityFramework.xml
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\EntityFramework.SqlServer.xml
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\System.Web.Razor.xml
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\System.Web.Webpages.xml
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\System.Web.Webpages.Deployment.xml
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\System.Web.Webpages.Razor.xml
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\System.Web.Helpers.xml
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\System.Web.Mvc.xml
+G:\project stajirovka\WebOrganizer\WebOrganizer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\project stajirovka\WebOrganizer\WebOrganizer\obj\Debug\WebOrganizer.csprojResolveAssemblyReference.cache
+G:\project stajirovka\WebOrganizer\WebOrganizer\obj\Debug\WebOrganizer.dll
+G:\project stajirovka\WebOrganizer\WebOrganizer\obj\Debug\WebOrganizer.pdb
